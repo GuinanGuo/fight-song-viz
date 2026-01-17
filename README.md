@@ -3,7 +3,7 @@
 An interactive visualization created for a university data visualization competition.  
 Explore how college fight songs differ in tempo, duration, lyrical tropes, and conference style.
 
-Live site: https://guinanguo.github.io/fight-song-viz/
+Website: https://guinanguo.github.io/fight-song-viz/
 
 Data: Fight Songs dataset (FiveThirtyEight) + derived metrics.
 
